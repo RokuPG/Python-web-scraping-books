@@ -13,6 +13,10 @@ El presente proyecto realiza **Web Scraping** dinámico sobre una tienda de libr
 * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) - Scraping.
 * [Uvicorn](https://www.uvicorn.org/) - Servidor ASGI.
 
+## 📋 Requisitos previos
+* Tener Python 3.10 o superior instalado.
+* Conexión a internet (para que el scraper pueda acceder a la web).
+
 ## 📦 Instalación
 1. Clona el repositorio.
 2. Instala las dependencias: `pip install -r requirements.txt`
